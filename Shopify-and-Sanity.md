@@ -118,6 +118,8 @@ Cons:
 
 [Starter kit for Gatsby, Sanity.io, & Shopify](https://github.com/lucasvocos/gatsby-sanity-shopify#starter-kit-for-gatsby-sanityio--shopify)
 
+> Clone this repository to bootstrap a fresh Gatsby site, powered by Sanity CMS and dynamically import Shopify products to Sanity with the help of a WebHook.
+
 # Plugins
 
 [Shopify + Algolia](https://www.algolia.com/solutions/shopify/)
@@ -133,4 +135,4 @@ Cons:
 
 [Headless Shopify Explained](https://www.jamchefs.com/blog/headless-shopify)
 
-[Comparison & Recommendation Shopify and Headless CMS](https://www.notion.so/Comparison-Recommendation-4ad8331de74d4de4a3155518aa47f728)]
+[Comparison & Recommendation Shopify and Headless CMS](https://www.notion.so/Comparison-Recommendation-4ad8331de74d4de4a3155518aa47f728)
